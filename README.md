@@ -8,6 +8,8 @@ The feature extraction notebook can be executec locally using jupyter-lab, or us
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dzkb/music-detection-js/blob/master/feature_extraction.ipynb)
 
+Extracted features are available as a [gist](https://gist.github.com/dzkb/d7e2d6ffe58fdb958edab238147ef8c9).
+
 ## Classification (JS)
 
 Codepen available here:
